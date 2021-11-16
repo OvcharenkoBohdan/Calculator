@@ -1,3 +1,3 @@
 # Calculator
 This repository created for my first project  - calculator
-Click to  button [<img src="https://s18955.pcdn.co/wp-content/uploads/2018/02/github.png" width="25"/>](https://ovcharenkobohdan.github.io/Calculator/)
+Click to  button [<img src="https://w7.pngwing.com/pngs/943/741/png-transparent-calculator-computer-icons-ios-7-ios-10-calculator-electronics-simple-rectangle.png" width="25"/>](https://ovcharenkobohdan.github.io/Calculator/)
